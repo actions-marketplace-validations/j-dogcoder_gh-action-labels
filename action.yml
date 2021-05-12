@@ -1,5 +1,5 @@
-name: 'EddieHubCommunity labels Action'
-description: 'Import open source issue labels standards'
+name: 'J-dogcoder labels Action'
+description: 'Import the labels @J-dogcoder uses in his projects'
 inputs:
   github-token:
     description: 'GitHub token for repo'
