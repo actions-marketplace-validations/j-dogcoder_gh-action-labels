@@ -25,7 +25,7 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: '14'
-    - uses: j-dogcoder/j-dogcoder-labels-action@main
+    - uses: j-dogcoder/gh-action-labels@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         owner-name: ${{ github.repository_owner }}
