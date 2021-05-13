@@ -20,7 +20,7 @@
     "color": "0E8A16"
   },
   {
-    "name": " 👐 help wanted 👐",
+    "name": "👐 help wanted 👐",
     "color": "FEE128"
   },
   {
@@ -52,7 +52,15 @@
     "color": "cfda2c"
   },
   {
-    "name": "🧹 status: ticket work required",
+    "name": "🧹 status: ticket work required 🧹",
     "color": "666666"
+  },
+  {
+    "name": "✅👤 status: assigned 👤✅",
+    "color": "dcf5f1"
+  }
+  {
+    "name": "👀👤 status: seeking assignee 👤👀",
+    "color": "dcf5f1"
   }
 ]
