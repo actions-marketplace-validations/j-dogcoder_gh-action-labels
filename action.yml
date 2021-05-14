@@ -16,9 +16,6 @@ runs:
     - name: 'install dependency'
       run: npm install github-label-template
       shell: bash
-    - name: 'delete existing labels'
-      run: npx ghlbl -o ${{ inputs.owner-name }} -r ${{ inputs.repository-name }} -t ${{ inputs.github-token }} -d
-      shell: bash
     - name: 'import labels from json file'
       run: npx ghlbl -o ${{ inputs.owner-name }} -r ${{ inputs.repository-name }} -t ${{ inputs.github-token }} -i ${{ github.action_path }}/labels.json
       shell: bash
