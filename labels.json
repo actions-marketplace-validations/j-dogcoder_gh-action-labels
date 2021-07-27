@@ -74,5 +74,9 @@
   {
     "name": "✨ v2 feature ✨",
     "color": "8FF1F2"
+  },
+  {
+    "name": "⚫️ Not Lockable ⚫️",
+    "color": "000000"
   }
 ]
