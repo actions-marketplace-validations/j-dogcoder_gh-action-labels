@@ -36,19 +36,19 @@
     "color": "999999"
   },
   {
-    "name": "🟥 priority: critical 🟥",
+    "name":  "priority: critical",
     "color": "b60205"
   },
   {
-    "name": "🟧 priority: high 🟧",
+    "name": "priority: high",
     "color": "ff9f1c"
   },
   {
-    "name": "🟨 priority: medium 🟨",
+    "name": "priority: medium",
     "color": "ffcc00"
   },
   {
-    "name": "🟩 priority: low 🟩",
+    "name": "priority: low",
     "color": "cfda2c"
   },
   {
@@ -64,7 +64,7 @@
     "color": "dcf5f1"
   },
   {
-    "name": "✨❓ Feature Request ✨❓",
+    "name": "✨ Feature Request ✨",
     "color": "BFD4F2"
   },
   {
