@@ -82,5 +82,9 @@
   {
     "name": "🍂 Hacktoberfest 🍂",
     "color": "ab672c"
+  },
+{
+    "name": "hacktoberfest-accepted",
+    "color": "ab672c"
   }
 ]
