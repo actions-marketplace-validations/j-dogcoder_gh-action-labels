@@ -1,5 +1,7 @@
 name: 'J-dogcoder labels Action'
 description: 'Import the labels @J-dogcoder uses in his projects'
+icon: check
+color: black
 inputs:
   github-token:
     description: 'GitHub token for repo'
@@ -10,8 +12,6 @@ inputs:
   repository-name:
     description: 'GitHub repo name'
     required: true
-  icon: check
-  color: black
 runs:
   using: "composite"
   steps:
