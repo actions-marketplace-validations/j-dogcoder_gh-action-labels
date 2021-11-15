@@ -10,6 +10,8 @@ inputs:
   repository-name:
     description: 'GitHub repo name'
     required: true
+  icon: check
+  color: black
 runs:
   using: "composite"
   steps:
