@@ -14,7 +14,23 @@
     {
    "name": "⚒️ pull: work in progress",
    "color": "1372AB"
-  },  
+  }, 
+    {
+    "name": "💻 aspect: code",
+    "color": "04338c"
+  },
+  {
+    "name": "📄 aspect: text",
+    "color": "04338c"
+  },
+    {
+    "name": "🤖 aspect: dependencies",
+    "color": "04338c"
+  },
+      {
+    "name": "📖 aspect: docs",
+    "color": "04338c"
+  },
   {
    "name": "wontfix",
    "color": "ffffff"
@@ -40,10 +56,6 @@
    "color": "C8DD44"
   },
   {
-    "name": " 📖 documentation 📖",
-    "color": "0398C3"
-  },
-  {
     "name": "good first issue",
     "color": "5983DB"
   },
@@ -64,19 +76,19 @@
     "color": "E7877A"
   },
   {
-    "name":  "priority: critical",
+    "name": "🟥 priority: critical",
     "color": "b60205"
   },
   {
-    "name": "priority: high",
+    "name": "🟧 priority: high",
     "color": "ff9f1c"
   },
   {
-    "name": "priority: medium",
+    "name": "🟨 priority: medium",
     "color": "ffcc00"
   },
   {
-    "name": "priority: low",
+    "name": "🟩 priority: low",
     "color": "cfda2c"
   },
   {
