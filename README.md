@@ -11,7 +11,7 @@ name: Import open source standard labels
 
 on:
   push:
-    branches: [ main ]
+    branches: [ updateLabels ]
 
 jobs:
   labels:
