@@ -2,7 +2,6 @@
 
 Adds labels used by j-dogcoder
 
-
 ## Usage
 
 To use this Action, you only need the yaml file below.
