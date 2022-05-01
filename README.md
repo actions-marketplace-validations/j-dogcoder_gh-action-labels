@@ -10,9 +10,7 @@ To use this Action, you only need the yaml file below.
 name: Import open source standard labels
 
 on:
-  push:
-    branches: [ updateLabels ]
-
+  workflow_dispatch:
 jobs:
   labels:
 
