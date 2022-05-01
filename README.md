@@ -21,7 +21,7 @@ jobs:
     steps:
     - uses: actions/setup-node@v2
       with:
-        node-version: '16'
+        node-version: '14'
     - uses: j-dogcoder/gh-action-labels@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
