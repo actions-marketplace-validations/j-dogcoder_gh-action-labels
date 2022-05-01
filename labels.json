@@ -1,90 +1,102 @@
 [
   {
-    "name": "🐛 bug 🐛",
-    "color": "38ECAE"
+   "name": "✅ pull: accepted",
+   "color": "1372AB"
+  },  
+    {
+   "name": "🔍 pull: ready for review",
+   "color": "1372AB"
+  },  
+    {
+   "name": "❌ pull: rejected",
+   "color": "1372AB"
+  },  
+    {
+   "name": "⚒️ pull: work in progress",
+   "color": "1372AB"
+  }, 
+    {
+    "name": "💻 aspect: code",
+    "color": "04338c"
   },
   {
-    "name": "🚩 Closed 🚩",
-    "color": "F9D0C4"
+    "name": "📄 aspect: text",
+    "color": "04338c"
+  },
+    {
+    "name": "🤖 aspect: dependencies",
+    "color": "04338c"
+  },
+      {
+    "name": "📖 aspect: docs",
+    "color": "04338c"
   },
   {
-    "name": " duplicate",
-    "color": "000000"
+   "name": "wontfix",
+   "color": "ffffff"
+  },
+    {
+   "name": "todo",
+   "color": "ededed"
+  },
+    {
+   "name": "invalid",
+   "color": "CB4C03"
+  },
+    {
+   "name": "help wanted",
+   "color": "ADFBCC"
+  },
+    {
+   "name": "type: bug",
+   "color": "E75886"
   },
   {
-    "name": " 📖 documentation 📖",
-    "color": "0052CC"
+   "name": "type: feature",
+   "color": "C8DD44"
   },
   {
     "name": "good first issue",
-    "color": "0E8A16"
+    "color": "5983DB"
   },
   {
-    "name": "👐 help wanted 👐",
-    "color": "FEE128"
+    "name": "EddieHub:good-first-issue",
+    "color": "5983DB"
   },
   {
-    "name": "🔒 staff only 🔒",
-    "color": "7f0799"
+    "name": "help wanted",
+    "color": "1BDCB2"
+  },
+  {
+    "name": "staff only",
+    "color": "B32F75"
   },
   {
     "name": "🚦 status: awaiting triage 🚦",
-    "color": "333333"
+    "color": "E7877A"
   },
   {
-    "name": "🚧 status: blocked 🚧",
-    "color": "999999"
-  },
-  {
-    "name":  "priority: critical",
+    "name": "🟥 priority: critical",
     "color": "b60205"
   },
   {
-    "name": "priority: high",
+    "name": "🟧 priority: high",
     "color": "ff9f1c"
   },
   {
-    "name": "priority: medium",
+    "name": "🟨 priority: medium",
     "color": "ffcc00"
   },
   {
-    "name": "priority: low",
+    "name": "🟩 priority: low",
     "color": "cfda2c"
   },
   {
-    "name": "🧹 status: ticket work required 🧹",
-    "color": "666666"
-  },
-  {
     "name": "✅👤 status: assigned 👤✅",
-    "color": "dcf5f1"
+    "color": "CAF6E3"
   },
   {
     "name": "👀👤 status: seeking assignee 👤👀",
-    "color": "dcf5f1"
-  },
-  {
-    "name": "✨ Feature Request ✨",
-    "color": "BFD4F2"
-  },
-  {
-    "name": "✨ v1 feature ✨",
-    "color": "8FF1F2"
-  },
-  {
-    "name": "✨ v2 feature ✨",
-    "color": "8FF1F2"
-  },
-  {
-    "name": "⚫️",
-    "color": "000000"
-  },
-  {
-    "name": "🍂 Hacktoberfest 🍂",
-    "color": "ab672c"
-  },
-{
-    "name": "hacktoberfest-accepted",
-    "color": "ab672c"
+    "color": "CAF6E3"
   }
 ]

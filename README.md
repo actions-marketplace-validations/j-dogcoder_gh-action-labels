@@ -21,12 +21,13 @@ jobs:
     steps:
     - uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '16'
     - uses: j-dogcoder/gh-action-labels@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         owner-name: ${{ github.repository_owner }}
         repository-name: ${{ github.event.repository.name }}
+         # force: true # optional to clear existing labels, default to false
 ```
 
 ## Contributing to this project
