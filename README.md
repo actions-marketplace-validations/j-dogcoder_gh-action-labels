@@ -2,9 +2,6 @@
 
 Adds labels used by j-dogcoder
 
-# WARNING:
-Will delete previous labels.
-
 ## Usage
 
 To use this Action, you only need the yaml file below.
