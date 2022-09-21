@@ -98,5 +98,9 @@
   {
     "name": "👀👤 status: seeking assignee 👤👀",
     "color": "CAF6E3"
+  },
+  {
+    "name": "hacktoberfest-accepted",
+    "color": "92e2d8"
   }
 ]
